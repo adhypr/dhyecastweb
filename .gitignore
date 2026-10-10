@@ -1,16 +1,15 @@
-# Dependencies & Build
 node_modules
 dist
 dist-ssr
 *.local
 
-# Documents
 *.md
 **/*.md
 *.pdf
 **/*.pdf
+*.txt
+**/*.txt
 
-# IDE / OS
 .vscode/
 .idea/
 .DS_Store
